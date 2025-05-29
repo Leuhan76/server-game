@@ -7,9 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_gravelly_hills": "2025-05-29 02:11:33 +0000",
       "minecraft:plains": "2025-05-28 17:17:51 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-29 02:10:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
