@@ -1802,6 +1802,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-31 04:22:15 +0000",
       "minecraft:soul_sand_valley": "2025-05-27 19:48:09 +0000",
       "minecraft:nether_wastes": "2025-05-31 03:12:25 +0000",
       "minecraft:basalt_deltas": "2025-05-28 18:39:14 +0000"
@@ -2369,6 +2370,18 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-31 03:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-31 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-31 04:22:31 +0000"
     },
     "done": true
   },

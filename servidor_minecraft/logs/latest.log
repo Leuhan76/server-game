@@ -319,3 +319,5 @@
 [04:12:11] [Server thread/INFO]: Leuhan76 joined the game
 [04:12:11] [Server thread/INFO]: axel lost connection: Disconnected
 [04:12:11] [Server thread/INFO]: axel left the game
+[04:22:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1464, y=46, z=-2305} class_2338{x=-1464, y=46, z=-2326}
+[04:22:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1464, y=46, z=-2305} class_2338{x=-1464, y=46, z=-2326}
