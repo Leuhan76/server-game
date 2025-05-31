@@ -78,3 +78,7 @@
 [00:52:44] [Server thread/INFO]: Done (5.090s)! For help, type "help"
 [00:53:09] [Server thread/INFO]: jose[/127.48.176.69:35185] logged in with entity id 11 at (-14113.91039602518, 69.0, -14393.237031450726)
 [00:53:09] [Server thread/INFO]: jose joined the game
+[01:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14117, y=64, z=-14375} class_2338{x=-14119, y=64, z=-14374}
+[01:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14118, y=64, z=-14375} class_2338{x=-14119, y=64, z=-14374}
+[01:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14118, y=64, z=-14376} class_2338{x=-14119, y=64, z=-14374}
+[01:14:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14117, y=64, z=-14376} class_2338{x=-14119, y=64, z=-14376}
