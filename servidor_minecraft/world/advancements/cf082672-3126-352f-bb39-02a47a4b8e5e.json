@@ -428,7 +428,8 @@
       "minecraft:magma_cube": "2025-05-31 03:26:43 +0000",
       "minecraft:spider": "2025-05-26 18:36:58 +0000",
       "minecraft:zombie": "2025-05-26 17:21:59 +0000",
-      "minecraft:zombie_villager": "2025-05-27 22:10:37 +0000"
+      "minecraft:zombie_villager": "2025-05-27 22:10:37 +0000",
+      "minecraft:hoglin": "2025-05-31 04:27:42 +0000"
     },
     "done": false
   },
@@ -2382,6 +2383,18 @@
   "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
       "has_log": "2025-05-31 04:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-31 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-31 04:26:59 +0000"
     },
     "done": true
   },
