@@ -80,3 +80,6 @@
 [18:32:17] [Server thread/INFO]: axel joined the game
 [19:06:55] [Server thread/INFO]: axel lost connection: Disconnected
 [19:06:55] [Server thread/INFO]: axel left the game
+[23:48:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@526161c2[id=81278f22-4e44-3e18-994c-e15c5141b661,name=Leuhan76,properties={}] lost connection: Disconnected
+[23:48:29] [Server thread/INFO]: Leuhan76[/127.58.30.61:60625] logged in with entity id 6198 at (-14111.311323992937, 70.0, -14385.590413181839)
+[23:48:29] [Server thread/INFO]: Leuhan76 joined the game
