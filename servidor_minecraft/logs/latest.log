@@ -1,5 +1,5 @@
-[18:18:53] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[18:18:53] [main/INFO]: Loading 41 mods:
+[00:39:01] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[00:39:01] [main/INFO]: Loading 43 mods:
 	- fabric-api 0.116.0+1.21.1
 	   |-- fabric-api-base 0.4.42+6573ed8c19
 	   |-- fabric-api-lookup-api-v1 1.6.71+b559734419
@@ -53,33 +53,35 @@
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[18:18:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-game/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:18:54] [main/INFO]: Compatibility level set to JAVA_17
-[18:18:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:19:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:19:08] [main/INFO]: Loaded 1290 recipes
-[18:19:08] [main/INFO]: Loaded 1399 advancements
-[18:19:09] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.661 ms
-[18:19:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:19:09] [Server thread/INFO]: Loading properties
-[18:19:09] [Server thread/INFO]: Default game type: SURVIVAL
-[18:19:09] [Server thread/INFO]: Generating keypair
-[18:19:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:19:09] [Server thread/INFO]: Using epoll channel type
-[18:19:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:19:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:19:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:19:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:19:09] [Server thread/INFO]: Preparing level "world"
-[18:19:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:19:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:19:13] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[18:19:13] [Server thread/INFO]: Time elapsed: 671 ms
-[18:19:13] [Server thread/INFO]: Done (4.132s)! For help, type "help"
-[18:32:17] [Server thread/INFO]: axel[/127.224.121.183:54911] logged in with entity id 11 at (-14124.858902789918, 100.41999998688698, -14622.131341196473)
-[18:32:17] [Server thread/INFO]: axel joined the game
-[19:06:55] [Server thread/INFO]: axel lost connection: Disconnected
-[19:06:55] [Server thread/INFO]: axel left the game
-[23:48:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@526161c2[id=81278f22-4e44-3e18-994c-e15c5141b661,name=Leuhan76,properties={}] lost connection: Disconnected
-[23:48:29] [Server thread/INFO]: Leuhan76[/127.58.30.61:60625] logged in with entity id 6198 at (-14111.311323992937, 70.0, -14385.590413181839)
-[23:48:29] [Server thread/INFO]: Leuhan76 joined the game
+	- xaerominimap 25.2.6
+	- xaeroworldmap 1.39.9
+[00:39:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-game/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:39:01] [main/INFO]: Compatibility level set to JAVA_17
+[00:39:01] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:39:09] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:39:09] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[00:39:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:39:11] [main/INFO]: Loaded 1290 recipes
+[00:39:11] [main/INFO]: Loaded 1399 advancements
+[00:39:11] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.113 ms
+[00:39:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:39:11] [Server thread/INFO]: Loading properties
+[00:39:11] [Server thread/INFO]: Default game type: SURVIVAL
+[00:39:11] [Server thread/INFO]: Generating keypair
+[00:39:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:39:11] [Server thread/INFO]: Using epoll channel type
+[00:39:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:39:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:39:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:39:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:39:12] [Server thread/INFO]: Preparing level "world"
+[00:39:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:39:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:39:16] [Server thread/INFO]: Time elapsed: 621 ms
+[00:39:16] [Server thread/INFO]: Done (4.657s)! For help, type "help"
+[00:39:16] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:39:16] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[00:40:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f929101[id=81278f22-4e44-3e18-994c-e15c5141b661,name=Leuhan76,properties={}] lost connection: Disconnected
+[00:41:00] [Server thread/INFO]: Leuhan76[/127.58.30.61:46561] logged in with entity id 11 at (-14161.009121614146, 70.9375, -14456.63960836613)
+[00:41:00] [Server thread/INFO]: Leuhan76 joined the game
