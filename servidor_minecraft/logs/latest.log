@@ -87,3 +87,7 @@
 [00:41:00] [Server thread/INFO]: Leuhan76 joined the game
 [00:52:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@59c7ae72[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
 [00:54:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@61fca275[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
+[01:04:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@43f7a940[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
+[01:08:09] [Server thread/INFO]: axel[/127.224.121.183:49855] logged in with entity id 4394 at (-1837.300000011921, 66.0, -1591.699999988079)
+[01:08:09] [Server thread/INFO]: axel joined the game
+[01:08:31] [Server thread/INFO]: [Not Secure] <axel> cheeto
