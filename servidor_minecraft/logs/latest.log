@@ -114,3 +114,16 @@
 [02:52:34] [Server thread/INFO]: Leuhan76 left the game
 [02:57:33] [Server thread/INFO]: Leuhan76[/127.58.30.61:46815] logged in with entity id 29394 at (-14111.699999988079, 61.5, -14412.170732686396)
 [02:57:33] [Server thread/INFO]: Leuhan76 joined the game
+[03:11:26] [Server thread/INFO]: Leuhan76 lost connection: Disconnected
+[03:11:26] [Server thread/INFO]: Leuhan76 left the game
+[03:11:36] [Server thread/INFO]: Stopping the server
+[03:11:37] [Server thread/INFO]: Stopping server
+[03:11:37] [Server thread/INFO]: Saving players
+[03:11:37] [Server thread/INFO]: Saving worlds
+[03:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:11:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:11:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
