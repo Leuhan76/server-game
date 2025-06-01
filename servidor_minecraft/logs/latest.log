@@ -85,3 +85,5 @@
 [00:40:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f929101[id=81278f22-4e44-3e18-994c-e15c5141b661,name=Leuhan76,properties={}] lost connection: Disconnected
 [00:41:00] [Server thread/INFO]: Leuhan76[/127.58.30.61:46561] logged in with entity id 11 at (-14161.009121614146, 70.9375, -14456.63960836613)
 [00:41:00] [Server thread/INFO]: Leuhan76 joined the game
+[00:52:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@59c7ae72[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
+[00:54:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@61fca275[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
