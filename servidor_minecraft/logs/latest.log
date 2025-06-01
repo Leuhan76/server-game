@@ -110,3 +110,7 @@
 [01:37:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@735f3b1f[id=34d47921-4a04-3f0d-9e05-51451c11bd23,name=axel,properties={}] lost connection: Disconnected
 [01:54:06] [Server thread/INFO]: [Leuhan76: Teleported Leuhan76 to -14229.500000, 142.500000, -14599.500000]
 [02:32:42] [Server thread/INFO]: [Leuhan76: Teleported Leuhan76 to -14229.500000, 142.500000, -14599.500000]
+[02:52:34] [Server thread/INFO]: Leuhan76 lost connection: Disconnected
+[02:52:34] [Server thread/INFO]: Leuhan76 left the game
+[02:57:33] [Server thread/INFO]: Leuhan76[/127.58.30.61:46815] logged in with entity id 29394 at (-14111.699999988079, 61.5, -14412.170732686396)
+[02:57:33] [Server thread/INFO]: Leuhan76 joined the game
